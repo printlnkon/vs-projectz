@@ -1,0 +1,17 @@
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\bin\Debug\net8.0-windows\New_StudentRegistrationForm.exe
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\bin\Debug\net8.0-windows\New_StudentRegistrationForm.deps.json
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\bin\Debug\net8.0-windows\New_StudentRegistrationForm.runtimeconfig.json
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\bin\Debug\net8.0-windows\New_StudentRegistrationForm.dll
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\bin\Debug\net8.0-windows\New_StudentRegistrationForm.pdb
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.Form1.resources
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.Properties.Resources.resources
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.dll
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\refint\New_StudentRegistrationForm.dll
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.pdb
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\New_StudentRegistrationForm.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\New_StudentRegistrationForm\New_StudentRegistrationForm\obj\Debug\net8.0-windows\ref\New_StudentRegistrationForm.dll
