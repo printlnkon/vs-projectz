@@ -1,0 +1,7 @@
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+D:\uzi\Documents\VisualStudioProjects\04LABEXER\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb
