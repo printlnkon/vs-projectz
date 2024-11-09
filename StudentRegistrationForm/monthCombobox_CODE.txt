@@ -1,0 +1,6 @@
+//for (int month = 1; month <= 12; month++)
+//{
+//    string formattedMonth = month.ToString("00");
+//    comboBox2.Items.Add(formattedMonth);
+//    //mos. from 1-9 should be 01 to 09
+//}
