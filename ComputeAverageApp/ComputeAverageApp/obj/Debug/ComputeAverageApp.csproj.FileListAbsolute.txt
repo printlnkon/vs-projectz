@@ -1,0 +1,7 @@
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe.config
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.pdb
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.AssemblyReference.cache
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.exe
+D:\uzi\Documents\VisualStudioProjects\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.pdb
