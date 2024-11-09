@@ -1,0 +1,14 @@
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\bin\Debug\Practice.exe.config
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\bin\Debug\Practice.exe
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\bin\Debug\Practice.pdb
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\obj\Debug\Practice.exe
+D:\uzi\Documents\VisualStudioProjects\Practice\Practice\obj\Debug\Practice.pdb
+D:\uzi\Documents\VSProjects\Practice\Practice\bin\Debug\Practice.exe.config
+D:\uzi\Documents\VSProjects\Practice\Practice\bin\Debug\Practice.exe
+D:\uzi\Documents\VSProjects\Practice\Practice\bin\Debug\Practice.pdb
+D:\uzi\Documents\VSProjects\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\uzi\Documents\VSProjects\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\Practice\Practice\obj\Debug\Practice.exe
+D:\uzi\Documents\VSProjects\Practice\Practice\obj\Debug\Practice.pdb
