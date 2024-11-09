@@ -1,0 +1,16 @@
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.exe
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.deps.json
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.runtimeconfig.json
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.dll
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.pdb
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.Form1.resources
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.csproj.GenerateResource.cache
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.AssemblyInfoInputs.cache
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.AssemblyInfo.cs
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.dll
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\refint\StudentGradeApplication.dll
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.pdb
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.genruntimeconfig.cache
+D:\uzi\Documents\VisualStudioProjects\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\ref\StudentGradeApplication.dll

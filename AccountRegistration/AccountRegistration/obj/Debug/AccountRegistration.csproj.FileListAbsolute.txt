@@ -1,0 +1,11 @@
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.pdb
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.AssemblyReference.cache
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmConfirm.resources
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmRegistration.resources
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe
+D:\uzi\Documents\VSProjects\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.pdb

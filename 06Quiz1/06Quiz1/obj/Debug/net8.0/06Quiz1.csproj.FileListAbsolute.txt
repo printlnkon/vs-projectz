@@ -1,0 +1,14 @@
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\bin\Debug\net8.0\06Quiz1.exe
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\bin\Debug\net8.0\06Quiz1.deps.json
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\bin\Debug\net8.0\06Quiz1.runtimeconfig.json
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\bin\Debug\net8.0\06Quiz1.dll
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\bin\Debug\net8.0\06Quiz1.pdb
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.AssemblyInfoInputs.cache
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.AssemblyInfo.cs
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.dll
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\refint\06Quiz1.dll
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.pdb
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\06Quiz1.genruntimeconfig.cache
+D:\uzi\Documents\VisualStudioProjects\06Quiz1\06Quiz1\obj\Debug\net8.0\ref\06Quiz1.dll
