@@ -1,0 +1,16 @@
+D:\uzi\Documents\VSProjects\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.exe
+D:\uzi\Documents\VSProjects\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.deps.json
+D:\uzi\Documents\VSProjects\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.runtimeconfig.json
+D:\uzi\Documents\VSProjects\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.dll
+D:\uzi\Documents\VSProjects\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.pdb
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.dll
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\refint\Inventory.dll
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.pdb
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\ref\Inventory.dll
+D:\uzi\Documents\VSProjects\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.frmAddProduct.resources
