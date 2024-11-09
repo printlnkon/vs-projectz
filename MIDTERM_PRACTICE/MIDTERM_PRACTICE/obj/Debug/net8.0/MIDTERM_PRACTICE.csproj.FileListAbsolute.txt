@@ -1,0 +1,14 @@
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\bin\Debug\net8.0\MIDTERM_PRACTICE.exe
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\bin\Debug\net8.0\MIDTERM_PRACTICE.deps.json
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\bin\Debug\net8.0\MIDTERM_PRACTICE.runtimeconfig.json
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\bin\Debug\net8.0\MIDTERM_PRACTICE.dll
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\bin\Debug\net8.0\MIDTERM_PRACTICE.pdb
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.dll
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\refint\MIDTERM_PRACTICE.dll
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.pdb
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\MIDTERM_PRACTICE.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\MIDTERM_PRACTICE\MIDTERM_PRACTICE\obj\Debug\net8.0\ref\MIDTERM_PRACTICE.dll

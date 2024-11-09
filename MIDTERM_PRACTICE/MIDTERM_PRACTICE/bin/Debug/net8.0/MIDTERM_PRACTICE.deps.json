@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MIDTERM_PRACTICE/1.0.0": {
+        "runtime": {
+          "MIDTERM_PRACTICE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MIDTERM_PRACTICE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
