@@ -1,0 +1,16 @@
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.exe
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.deps.json
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.runtimeconfig.json
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.dll
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.pdb
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.Form1.resources
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.dll
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\refint\WordGuessApplication.dll
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.pdb
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\ref\WordGuessApplication.dll
