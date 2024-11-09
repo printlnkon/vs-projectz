@@ -1,0 +1,16 @@
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.exe
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.deps.json
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.runtimeconfig.json
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.dll
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.pdb
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.Form1.resources
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.dll
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\refint\ThreadPriority.dll
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.pdb
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ref\ThreadPriority.dll

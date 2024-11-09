@@ -1,0 +1,14 @@
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\TryException\TryException\bin\Debug\net8.0\TryException.exe
+D:\uzi\Documents\VSProjects\TryException\TryException\bin\Debug\net8.0\TryException.deps.json
+D:\uzi\Documents\VSProjects\TryException\TryException\bin\Debug\net8.0\TryException.runtimeconfig.json
+D:\uzi\Documents\VSProjects\TryException\TryException\bin\Debug\net8.0\TryException.dll
+D:\uzi\Documents\VSProjects\TryException\TryException\bin\Debug\net8.0\TryException.pdb
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.dll
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\refint\TryException.dll
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.pdb
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\TryException.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\TryException\TryException\obj\Debug\net8.0\ref\TryException.dll
