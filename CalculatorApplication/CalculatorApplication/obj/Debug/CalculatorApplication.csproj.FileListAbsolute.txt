@@ -1,0 +1,10 @@
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+D:\uzi\Documents\VSProjects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.frmCalculator.resources

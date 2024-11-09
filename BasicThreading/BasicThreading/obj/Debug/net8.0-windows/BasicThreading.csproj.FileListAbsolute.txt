@@ -1,0 +1,16 @@
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\bin\Debug\net8.0-windows\BasicThreading.exe
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\bin\Debug\net8.0-windows\BasicThreading.deps.json
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\bin\Debug\net8.0-windows\BasicThreading.runtimeconfig.json
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\bin\Debug\net8.0-windows\BasicThreading.dll
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\bin\Debug\net8.0-windows\BasicThreading.pdb
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.Form1.resources
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.csproj.GenerateResource.cache
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.AssemblyInfoInputs.cache
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.AssemblyInfo.cs
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.csproj.CoreCompileInputs.cache
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.dll
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\refint\BasicThreading.dll
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.pdb
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\BasicThreading.genruntimeconfig.cache
+C:\Users\uzi\source\repos\BasicThreading\BasicThreading\obj\Debug\net8.0-windows\ref\BasicThreading.dll
