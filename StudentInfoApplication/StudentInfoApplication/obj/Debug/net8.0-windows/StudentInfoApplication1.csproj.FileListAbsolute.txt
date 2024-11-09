@@ -1,0 +1,16 @@
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\bin\Debug\net8.0-windows\StudentInfoApplication1.exe
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\bin\Debug\net8.0-windows\StudentInfoApplication1.deps.json
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\bin\Debug\net8.0-windows\StudentInfoApplication1.runtimeconfig.json
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\bin\Debug\net8.0-windows\StudentInfoApplication1.dll
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\bin\Debug\net8.0-windows\StudentInfoApplication1.pdb
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.Form1.resources
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.csproj.GenerateResource.cache
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.AssemblyInfoInputs.cache
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.AssemblyInfo.cs
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.dll
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\refint\StudentInfoApplication1.dll
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.pdb
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\StudentInfoApplication1.genruntimeconfig.cache
+D:\uzi\Documents\VSProjects\StudentInfoApplication1\StudentInfoApplication1\obj\Debug\net8.0-windows\ref\StudentInfoApplication1.dll
