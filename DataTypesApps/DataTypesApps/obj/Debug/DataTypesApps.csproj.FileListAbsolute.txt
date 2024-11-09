@@ -1,0 +1,7 @@
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\bin\Debug\DataTypesApps.exe.config
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\bin\Debug\DataTypesApps.exe
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\bin\Debug\DataTypesApps.pdb
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\obj\Debug\DataTypesApps.csproj.AssemblyReference.cache
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\obj\Debug\DataTypesApps.csproj.CoreCompileInputs.cache
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\obj\Debug\DataTypesApps.exe
+D:\uzi\Documents\VisualStudioProjects\DataTypesApps\DataTypesApps\obj\Debug\DataTypesApps.pdb
